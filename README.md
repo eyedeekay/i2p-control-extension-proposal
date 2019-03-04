@@ -1,6 +1,6 @@
 # i2p-control-extension-proposal
 
-WIP proposal to extend i2pcontrol with a means to control i2ptunnel
+Nevermind. Just a place I'm putting links to read about i2pcontrol.
 
 See also:
 
